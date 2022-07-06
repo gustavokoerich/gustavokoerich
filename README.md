@@ -24,6 +24,10 @@
   <a href="https://www.linkedin.com/in/gustavo-koerich-1338a2240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
  
+ \
+💻 I want to be a **Web Developer**\
+📑 I study **Python**, **HTML** and **CSS** and I want to study **JavaScript**
+ 
 ## Education
 
 📖 **Studying Python**\
