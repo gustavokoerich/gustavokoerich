@@ -25,7 +25,6 @@
  </div>
  
  \
-💻 I want to be a **Web Developer**\
 📑 I study **Python**, **HTML**, **CSS** and I want to study **JavaScript**
  
 ## Education
