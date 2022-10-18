@@ -25,7 +25,7 @@
  </div>
  
  \
-📑 I study **Python**, **HTML**, **CSS** and I want to study **JavaScript**
+📑 I have knowledge in **Python**, **Javascript**, **HTML**, **CSS**, **Django** e **Node.js**
  
 ## Education
 
